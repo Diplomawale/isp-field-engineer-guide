@@ -61,7 +61,7 @@ This repository contains **real telecom & networking field knowledge** for begin
 👉 [Open LOS Guide](./LOS/los-complete-guide.md)
 
 ### 🔹 Troubleshooting
-👉 (Coming soon)
+👉 [Open Troubleshooting Guide](./Troubleshooting/link-down-guide.md)
 
 ## 📥 Download Notes
 
