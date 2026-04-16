@@ -81,20 +81,52 @@ Tower
 
 👉
 
-```md
+
 ![P2P vs P2MP Diagram](../images/p2p-p2mp-diagram.png)
+
+---
 🏢 Telecom Companies in India
-Jio
-Airtel
-Vodafone Idea (Vi)
-BSNL
-🏭 Vendor Companies
-Cisco
-Huawei
-Nokia
-Juniper
-MikroTik
-Ubiquiti
+---
+
+## 🏭 Major ISP Equipment Vendors (India)
+
+<p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cisco_logo.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Huawei_logo.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Nokia_wordmark.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Juniper_Networks_logo.svg" width="80" />
+
+</p>
+
+<p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Ubiquiti_Networks_logo.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cambium_Networks_logo.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/RADWIN_logo.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Airspan_logo.svg" width="80" />
+
+</p>
+
+<p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/HFCL_logo.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mimosa_Networks_logo.svg" width="80" />
+
+</p>
+
+---
+
+### 📡 About These Vendors
+
+- **HFCL** → Indian telecom equipment manufacturer  
+- **Airspan** → 4G/5G & wireless solutions  
+- **Cambium Networks** → P2P & P2MP wireless devices  
+- **RADWIN** → Wireless backhaul specialist  
+- **Mimosa** → High-speed wireless broadband  
+- **Ubiquiti** → Popular ISP & WISP devices  
+
+---
 📡 Where UBR is Used?
 ISP Network
 Broadband connections
@@ -148,4 +180,5 @@ Which frequency used in ISP?
 https://youtu.be/9gHm7e6BZQw
 https://youtu.be/VmOf4u1U_pQ
 https://youtu.be/T_Kwwb9Otr0
+---
 ⭐ Star this repo if it helps you!
