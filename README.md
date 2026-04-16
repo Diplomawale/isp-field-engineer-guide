@@ -18,7 +18,7 @@ This repository contains **real telecom & networking field knowledge** for begin
 
 ## 📂 Topics
 
-### 🔹 UBR (Uncommitted Bit Rate)
+### 🔹 UBR (Unliancese Band Radio)
 - What is UBR
 - UBR Configuration Basics
 - UBR Troubleshooting  
