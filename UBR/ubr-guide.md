@@ -53,3 +53,99 @@ Wireless ISP networks use:
 ### 🔹 Point-to-Point (P2P)
 
 👉 One-to-One connection
+
+Tower A  -------->  Tower B
+
+
+- Dedicated link  
+- High speed  
+- Used for backhaul  
+
+---
+
+### 🔹 Point-to-Multipoint (P2MP)
+
+👉 One-to-Many connection
+
+Tower
+   /  |  \
+ User User User
+
+ - Shared bandwidth  
+- Cost-effective  
+- Used for ISP distribution  
+
+---
+
+## 🖼️ Diagram 
+
+👉
+
+```md
+![P2P vs P2MP Diagram](../images/p2p-p2mp-diagram.png)
+🏢 Telecom Companies in India
+Jio
+Airtel
+Vodafone Idea (Vi)
+BSNL
+🏭 Vendor Companies
+Cisco
+Huawei
+Nokia
+Juniper
+MikroTik
+Ubiquiti
+📡 Where UBR is Used?
+ISP Network
+Broadband connections
+Wireless internet
+Backhaul
+Tower to tower link
+Core network connectivity
+📊 Market Growth (India)
+Internet users: 800M+
+Rapid growth due to:
+4G / 5G
+Fiber expansion
+Digital India
+👉 High demand for network engineers
+💼 Career Opportunities
+Roles:
+Field Engineer
+Network Engineer
+NOC Engineer
+Wireless Engineer
+Salary:
+Fresher: ₹2–4 LPA
+Experienced: ₹5–10 LPA
+🔧 Troubleshooting (Field Level)
+🚨 Link Down
+Causes:
+Power issue
+Cable fault
+Wrong IP
+LOS problem
+Steps:
+Check power
+Check cable
+Check interface
+Ping test
+Verify IP
+Check LOS
+🎯 Interview Questions
+What is UBR?
+Difference between UBR meanings?
+What is P2P?
+What is P2MP?
+Which frequency used in ISP?
+🧠 Field Tips
+✔ Use 5 GHz for stable link
+✔ Always check LOS
+✔ Carry spare cable
+✔ Use ping for testing
+📺 Related Video
+👉 
+https://youtu.be/9gHm7e6BZQw
+https://youtu.be/VmOf4u1U_pQ
+https://youtu.be/T_Kwwb9Otr0
+⭐ Star this repo if it helps you!
