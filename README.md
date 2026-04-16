@@ -63,6 +63,9 @@ This repository contains **real telecom & networking field knowledge** for begin
 ### 🔹 Troubleshooting
 👉 [Open Troubleshooting Guide](./Troubleshooting/link-down-guide.md)
 
+### 🔹 Interview Questions
+👉 [Open Interview Questions](./Interview/interview-questions.md)
+
 ## 📥 Download Notes
 
 👉 https://github.com/Diplomawale/isp-field-engineer-guide
